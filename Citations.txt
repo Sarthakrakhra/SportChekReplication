@@ -1,0 +1,67 @@
+SportChek logo:
+	https://www.axis4media.ca/portfolio-item/sport-chek-video-wall/
+	Obtained on: 8/Nov/2019
+
+Image 1 for slider:
+	https://www.sportchek.ca/
+	Obtained on: 11/Nov/2019
+
+Image 2 on slider: 
+	https://www.sportchek.ca/
+	Obtained on: 11/Nov/2019
+
+Image 3 on slider:
+	https://www.sportchek.ca/
+	Obtained on: 11/Nov/2019
+
+Gift icon:
+	https://www.sportchek.ca/
+	Obtained on: 11/Nov/2019
+
+Running man icon:
+	https://www.sportchek.ca/
+	Obtained on: 11/Nov/2019
+
+Yoga women icon:
+	https://www.sportchek.ca/
+	Obtained on: 11/Nov/2019
+
+Kids playing icon:
+	https://www.sportchek.ca/
+	Obtained on: 11/Nov/2019
+
+Balls icon:
+	https://www.sportchek.ca/
+	Obtained on: 11/Nov/2019
+
+Deals icon:
+	https://www.sportchek.ca/
+	Obtained on: 11/Nov/2019
+
+Image 1 for slider no.2:
+	https://www.sportchek.ca/
+	Obtained on: 11/Nov/2019
+
+Image 2 for slider no.2:
+	https://www.sportchek.ca/
+	Obtained on: 11/Nov/2019
+
+Image 3 for slider no.2:
+	https://www.sportchek.ca/
+	Obtained on: 11/Nov/2019
+
+Image 4 for slider no.2:
+	https://www.sportchek.ca/
+	Obtained on: 11/Nov/2019
+
+Arrow sprite in footer:
+	https://www.cleanpng.com/png-computer-icons-arrow-cascading-style-sheets-drop-		d-726325/
+	Obtained on: 2/Dec/2019
+	
+Bootstrap:
+	https://getbootstrap.com
+	Obtained on: 09/Nopv/2019
+
+Angular:
+	https://angular.io
+	Obtained on: 09/Nov/2019

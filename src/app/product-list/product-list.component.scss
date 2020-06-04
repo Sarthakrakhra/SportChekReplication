@@ -1,0 +1,17 @@
+.col{
+    padding-bottom: 50px !important;
+}
+
+.row:last-child{
+    .col{
+        padding-bottom: 0px !important;
+    }
+}
+
+#product-list-container{
+    margin-top: 2%;
+}
+
+.product:hover{
+    border: 1px solid #d0d3d6 ;
+}

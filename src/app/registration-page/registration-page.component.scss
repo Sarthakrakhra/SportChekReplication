@@ -1,0 +1,15 @@
+#register-container{
+    margin-top: 5%;
+
+    @media (min-width: 850px){
+        width: 40%;
+    }    
+}
+
+.error-warnings{
+    color: red;
+}
+
+.error-noError{
+    color: green;
+}

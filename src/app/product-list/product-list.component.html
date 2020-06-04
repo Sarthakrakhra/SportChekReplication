@@ -1,0 +1,22 @@
+<div class="container" id="product-list-container">
+    <h1>Products</h1>
+    <small class="text-muted">{{numOfProducts}} items</small>
+    <hr>
+    <div class="row" *ngFor="let productRow of products">
+        <div class="col product" *ngFor="let item of productRow">
+            <div>
+                <div>
+                    <img src="{{item.imgUrl}}" width="190px" height="190px">
+                </div>
+                <div id="product-details">
+                    <h5>
+                        ${{item.price}}
+                    </h5>
+                    <p class="lead">
+                        {{item.name}}
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

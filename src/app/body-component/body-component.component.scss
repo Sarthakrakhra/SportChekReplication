@@ -1,0 +1,48 @@
+#secondary-nav{
+    margin: 40px 0px !important;
+}
+
+.secondary-nav-link{
+    text-align: center;
+}
+
+.secondary-nav-link:hover span{
+    color: #e72020;
+}
+
+.secondary-nav-link:hover button{
+    background-color: #e72020;
+}
+
+#view-all-sales{
+    color: #008fb0;
+}
+
+#view-all-sales:hover{
+    text-decoration: none;
+}
+
+.weekly-deal-ad{
+    width: 20%;
+}
+
+.weekly-deal-ad img {
+    max-width: 100%;
+}
+
+#weekly-deals-title{
+    margin-bottom: 1%;
+}
+
+section{
+    margin-bottom: 5%;
+}
+
+
+@media screen and (max-width: 991px){
+    .weekly-deal-ad{
+        width: 50% !important;
+        flex-basis: auto !important;
+        padding-bottom: 1em;
+    }
+}

@@ -1,0 +1,73 @@
+<header>
+    <div>
+        <div id="header-utility">
+            <div class="container" >
+                <div class="row justify-content-between">
+                    <div class="col-8">
+                        <ul id="header-utility-list">
+                            <li><a href="#" class="header-utility-link">FREE Shipping!</a></li>
+                            <li><a href="#" class="header-utility-link">Triangle rewards</a></li>
+                            <li><a href="#" class="header-utility-link">Join Our Mailing List for Exclusive Deals And New Releases!</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-4">
+                        <a href="/login" class="header-utility-link right">{{username}}</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="header-main-container">
+            <div class="container" >
+                <div class="row">
+                    <div class="col-1.5" id="logo">
+                        <!-- 
+                            SPORTCHEK LOGO HAS BEEN OBTAINED FROM https://www.axis4media.ca/portfolio-item/sport-chek-video-wall/
+                            Obtained on: 8/Nov/2019
+                        -->
+                        <a href="/"><img src="../../assets/images/SportChek_logo.png" alt="Logo"></a>
+                    </div>
+                    <div class="col-sm-6" id="search-field">
+                        <div class="row">
+                            <div class="col-11">
+                                <input type="text" name="search-bar" placeholder="Search for products...">
+                            </div>
+
+                            <div id="search-icon-col" class="col-1" style="background-color: #008fb0; padding-top: 5px !important;">
+                                <fa-icon icon="search"></fa-icon>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div id="icon-holder" class="row justify-content-end">
+                            <div class="col-5 icons-in-nav">
+                                <fa-icon icon="map-marker" class="fa-lg"></fa-icon>
+                                <br>
+                                <span class="text-under-icon">Location</span>
+                            </div>
+                            <div class="col-5 icons-in-nav">
+                                <fa-icon icon="shopping-cart" class="fa-lg"></fa-icon>
+                                <br>
+                                <span class="text-under-icon">Cart</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <hr>
+                <div id="navigation" class="d-flex justify-content-center">
+                    <ul class="nav">
+                            <li class="nav-item">
+                                <a class="nav-link" href="/product-list" routerLinkActive="active">Product page</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/login" routerLinkActive="active">{{logoutString}}</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/registration" routerLinkActive="active">Create Account</a>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
